@@ -6,7 +6,7 @@
 - 🧠 I’m interested in physics & computer science, and love working on problems where these two fields intersect.
 - 🎓 I’m studying physics at the [Ruperto Carola University of Heidelberg](https://www.uni-heidelberg.de/), where  
     - I wrote my Bachelor thesis on CNNs and instance segmentation at the [Heidelberg Collaboratory for Image Processing](https://hci.iwr.uni-heidelberg.de) under the supervision of Prof. Dr. Fred Hamprecht
-    - I am currently writing my Master thesis on Video Generation using Flow Matching in cooperation with Prof. Björn Ommer from LMU
+    - I am currently writing my Master thesis on Video Generation using Flow Matching the [Computer Vision & Learning group](https://ommer-lab.com/people/ommer/) at LMU under the direction of Proj. Björn Ommer 
 ---
 
 ### Connect with me:

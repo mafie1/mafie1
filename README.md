@@ -6,10 +6,7 @@
 - 🧠 I’m interested in physics & computer science, and love working on problems where these two fields intersect.
 - 🎓 I’m studying physics at the [Ruperto Carola University of Heidelberg](https://www.uni-heidelberg.de/), where  
     - I wrote my [Bachelor thesis]([https://www.mpia.de/en](https://hci.iwr.uni-heidelberg.de)) on CNNs and instance segmentation at the Heidelberg Collaboratory for Image Processing under the supervision of Prof. Dr. Fred Hamprecht
-    - I am currently writing my [Master thesis](https://www.uni-heidelberg.de/fakultaeten/wiso/awi/english/index.html) on circumstellar dust coagulation.
-
-Feel free to check out my [personal web-site](https://your-website.com), [LinkedIn page](https://linkedin.com/in/luisa-neubauer), or [YouTube channel](https://youtube.com/your-channel)!
-
+    - I am currently writing my Master thesis on Video Generation using Flow Matching in cooperation with Prof. Björn Ommer from LMU
 ---
 
 ### Connect with me:

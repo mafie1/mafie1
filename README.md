@@ -8,7 +8,7 @@
     - I wrote my Bachelor thesis on CNNs and instance segmentation at the [Heidelberg Collaboratory for Image Processing](https://hci.iwr.uni-heidelberg.de) under the supervision of Prof. Dr. Fred Hamprecht
     - I am currently writing my Master thesis on Video Generation using Flow Matching in the [Computer Vision & Learning group](https://ommer-lab.com/people/ommer/) at LMU under the direction of Proj. Björn Ommer
  
-Feel free to connect with me on [LinkedIn page](https://linkedin.com/in/luisa-neubauer) 
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/luisa-neubauer) 
 
 ---
 

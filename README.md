@@ -4,7 +4,6 @@
 
 - 📍 I’m based in [Nürnberg, Germany](https://www.google.com/maps/place/Nürnberg,+Germany/)
 - 🧠 I’m interested in physics & computer science, and love working on problems where these two intersect
- writing my Master thesis on Video Generation using Flow Matching in the [Computer Vision & Learning group](https://ommer-lab.com/people/ommer/) at LMU under the direction of Prof. Dr. Björn Ommer
  
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/luisa-neubauer) 
 

@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm Luisa!
 
 - 📍 I’m based in [Nürnberg, Germany](https://www.google.com/maps/place/Nürnberg,+Germany/)
-- 🧠 I’m interested in computer sicence, physics & machine learning, and love working on problems where these intersect
+- 🧠 I’m interested in Computer Science, Physics & Machine Learning, and love working on problems where these intersect
  
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/luisa-neubauer) 
 
